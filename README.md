@@ -1,3 +1,0 @@
-# reactive-x
-
-hello
