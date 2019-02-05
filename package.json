@@ -1,0 +1,22 @@
+{
+  "name": "reactive-x",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NormLorenz/reactive-x.git",
+  "author": "norm <normlorenz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "dependencies": {
+    "rxjs": "^6.4.0",
+    "rxjs-compat": "^6.4.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.1",
+    "webpack": "^4.29.1",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
